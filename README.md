@@ -7,15 +7,6 @@ This repository contains the code and related materials for the paper **“Cost-
 **Corresponding author:** Yi Wang (<yiwang@eee.hku.hk>)
 
 
-## Installation
-
-We recommend using Conda to manage the Python environment for this project.
-
-Create the environment from the provided file:
-
-```bash
-conda env create -f environment.yml
-conda activate Meta_DFL
 
 
 ## Results
@@ -25,3 +16,14 @@ Because the forecasting model parameters are too large to be uploaded to GitHub,
 Please note that this repository currently contains only partial experimental results. For the complete version, including the full model parameters and related files, please visit:
 
 [Google Drive Folder](https://drive.google.com/drive/folders/1ArEguiHyZMoi7oXKkbaTTZG9JtMWypMH?usp=drive_link)
+
+
+## Installation
+
+We recommend using Conda to manage the Python environment for this project.
+
+Create the environment from the provided file:
+
+```bash
+conda env create -f environment.yml
+conda activate Meta_DFL
