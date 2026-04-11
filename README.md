@@ -1,2 +1,6 @@
 # Cost-oriented-Generative-Model
-This repository are designed for work "Cost-oriented Scenario Generation for Power System Under Uncertainty", authored by Yangze Zhou, Yihong Zhou,  Daniel Kirschen, Thomas Morstyn, and Yi Wang.
+
+This repository contains the code and related materials for the paper **“Cost-oriented Scenario Generation for Power Systems Under Uncertainty”**, which has been submitted to *IEEE Transactions on Smart Grid*.
+
+**Authors:** Yangze Zhou, Yihong Zhou, Daniel Kirschen, Thomas Morstyn, and Yi Wang.
+**Corresponding author:** Yi Wang (<yiwang@eee.hku.hk>)
