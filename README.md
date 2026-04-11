@@ -16,3 +16,12 @@ Create the environment from the provided file:
 ```bash
 conda env create -f environment.yml
 conda activate Meta_DFL
+
+
+## Results
+
+Because the forecasting model parameters are too large to be uploaded to GitHub, they are provided separately via Google Drive.
+
+Please note that this repository currently contains only partial experimental results. For the complete version, including the full model parameters and related files, please visit:
+
+[Google Drive Folder](https://drive.google.com/drive/folders/1ArEguiHyZMoi7oXKkbaTTZG9JtMWypMH?usp=drive_link)
