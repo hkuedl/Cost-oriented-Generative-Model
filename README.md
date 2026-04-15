@@ -18,6 +18,7 @@ Create the environment from the provided file:
 ```bash
 conda env create -f environment.yml
 conda activate Meta_DFL
+```
 
 ## How to Run
 
