@@ -32,7 +32,7 @@ conda activate Meta_DFL
   </thead>
   <tbody>
     <tr>
-      <td rowspan="3">Standard generative model training</td>
+      <td rowspan="3">Standard generative model</td>
       <td>VAE</td>
       <td>Run the notebooks <code>forecasting_VAE_joint.ipynb</code> and <code>forecasting_VAE_separate.ipynb</code></td>
     </tr>
@@ -45,7 +45,7 @@ conda activate Meta_DFL
       <td>Run the notebooks <code>forecasting_diffusion_joint.ipynb</code> and <code>forecasting_diffusion_separate.ipynb</code></td>
     </tr>
     <tr>
-      <td rowspan="3">Cost-oriented generative model training</td>
+      <td rowspan="3">Cost-oriented generative model</td>
       <td>VAE</td>
       <td>Run the commands <code>python main_VAE_joint.py</code> and <code>python main_VAE_separate.py</code></td>
     </tr>
