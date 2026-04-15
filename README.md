@@ -22,15 +22,43 @@ conda activate Meta_DFL
 
 ## How to Run
 
-| Training Setting | Model | How to Run |
-|---|---|---|
-| Standard generative model training | VAE | Run the notebooks `forecasting_VAE_joint.ipynb` and `forecasting_VAE_separate.ipynb` |
-| Standard generative model training | GAN | Run the notebooks `forecasting_GAN_joint.ipynb` and `forecasting_GAN_separate.ipynb` |
-| Standard generative model training | Diffusion | Run the notebooks `forecasting_diffusion_joint.ipynb` and `forecasting_diffusion_separate.ipynb` |
-| Cost-oriented generative model training | VAE | Run the commands `python main_VAE_joint.py` and `python main_VAE_separate.py` |
-| Cost-oriented generative model training | GAN | Run the commands `python main_GAN_joint.py` and `python main_GAN_separate.py` |
-| Cost-oriented generative model training | Diffusion | Run the commands `python main_diffusion_joint.py` and `python main_diffusion_separate.py` |
-
+<table>
+  <thead>
+    <tr>
+      <th>Training Setting</th>
+      <th>Model</th>
+      <th>How to Run</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="3">Standard generative model training</td>
+      <td>VAE</td>
+      <td>Run the notebooks <code>forecasting_VAE_joint.ipynb</code> and <code>forecasting_VAE_separate.ipynb</code></td>
+    </tr>
+    <tr>
+      <td>GAN</td>
+      <td>Run the notebooks <code>forecasting_GAN_joint.ipynb</code> and <code>forecasting_GAN_separate.ipynb</code></td>
+    </tr>
+    <tr>
+      <td>Diffusion</td>
+      <td>Run the notebooks <code>forecasting_diffusion_joint.ipynb</code> and <code>forecasting_diffusion_separate.ipynb</code></td>
+    </tr>
+    <tr>
+      <td rowspan="3">Cost-oriented generative model training</td>
+      <td>VAE</td>
+      <td>Run the commands <code>python main_VAE_joint.py</code> and <code>python main_VAE_separate.py</code></td>
+    </tr>
+    <tr>
+      <td>GAN</td>
+      <td>Run the commands <code>python main_GAN_joint.py</code> and <code>python main_GAN_separate.py</code></td>
+    </tr>
+    <tr>
+      <td>Diffusion</td>
+      <td>Run the commands <code>python main_diffusion_joint.py</code> and <code>python main_diffusion_separate.py</code></td>
+    </tr>
+  </tbody>
+</table>
 
 ## Results
 
