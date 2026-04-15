@@ -7,7 +7,7 @@ This repository contains the code and related materials for the paper **“Cost-
 **Corresponding author:** Yi Wang (<yiwang@eee.hku.hk>)
 
 ## Data
-Data can be found in "./Data/load_data_city_4_2.csv"
+Data can be found in [Google Drive Folder](https://drive.google.com/drive/folders/1ArEguiHyZMoi7oXKkbaTTZG9JtMWypMH?usp=drive_link)
 
 ## Environment
 
