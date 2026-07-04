@@ -2,7 +2,9 @@
 
 This repository contains the code and related materials for the paper **“Cost-oriented Scenario Generation for Power Systems Under Uncertainty”**, which has been submitted to *IEEE Transactions on Smart Grid*.
 
-**Authors:** Yangze Zhou, Yihong Zhou, Daniel Kirschen, Thomas Morstyn, and Yi Wang.
+**Authors:** Yangze Zhou, Yihong Zhou, Thomas Morstyn, and Yi Wang.
+
+**Acknowledgement:** This work was completed during Yangze Zhou’s visiting period at the University of Washington. The authors gratefully acknowledge the support and assistance of Prof. Daniel Kirschen.
 
 **Corresponding author:** Yi Wang (<yiwang@eee.hku.hk>)
 
